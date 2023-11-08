@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "102794992662",
+    "project_id": "fir-withflutterlogin",
+    "storage_bucket": "fir-withflutterlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102794992662:android:048dc3ee71b9dec675a937",
+        "android_client_info": {
+          "package_name": "com.example.firebasewithfullterlogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXs_ccRqhMJBihhWQuVVpcrnio49Jf7CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
